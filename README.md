@@ -2,7 +2,7 @@
 
 A single-file HTML application that lets economics students build, train, and experiment with n-gram language models. Demystifies how modern LLMs work by making next-token prediction visible and interactive.
 
-Created by [Chris Berg](https://chrisberg.org/), 2026. It is really wonderful.
+Created by [Chris Berg](https://chrisberg.org/), 2026. 
 
 ## Usage
 
